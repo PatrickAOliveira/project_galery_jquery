@@ -119,10 +119,6 @@ ul li:hover .overlay-img-link {
 		margin-bottom: 16px;
 	}
 
-	button {
-		justify-content: space-between;
-	}
-
 	form button {
 		width: 80%;
 		margin-bottom: 16px;
